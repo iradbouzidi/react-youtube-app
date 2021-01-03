@@ -10,7 +10,6 @@ function App() {
     <div className={"app"}>
       <Router>
         <Header />
-        
         <Switch>
           <Route path={"/search/:searchTerm"}>
             <h1>Search Page...</h1>
@@ -28,4 +27,4 @@ function App() {
 }
 
 export default App;
-//2h22min
+//2h37min
