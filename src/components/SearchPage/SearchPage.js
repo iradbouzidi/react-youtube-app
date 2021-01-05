@@ -31,7 +31,7 @@ function SearchPage() {
         image={
           "https://i.ytimg.com/vi/hj_XHjnHrhI/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBnD1nO8l7-FiXkP2mzanAZRmBR1A"
         }
-        title={"Become w web dev in 10min"}
+        title={"Become a web dev in 10min"}
       />
     </div>
   );

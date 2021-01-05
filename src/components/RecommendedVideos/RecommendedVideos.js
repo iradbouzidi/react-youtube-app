@@ -8,7 +8,7 @@ function RecommendedVideos() {
       <h2>Recommended</h2>
       <div className="recommendedVideos_videos">
         <VideoCard
-          title={"Become w web dev in 10min"}
+          title={"Become a web dev in 10min"}
           views={"2.3M Views"}
           timestamp={"3 days ago"}
           channelImage={
@@ -20,7 +20,7 @@ function RecommendedVideos() {
           }
         />
         <VideoCard
-          title={"Become w web dev in 10min"}
+          title={"Become a web dev in 10min"}
           views={"2.3M Views"}
           timestamp={"3 days ago"}
           channelImage={
@@ -32,7 +32,7 @@ function RecommendedVideos() {
           }
         />
         <VideoCard
-          title={"Become w web dev in 10min"}
+          title={"Become a web dev in 10min"}
           views={"2.3M Views"}
           timestamp={"3 days ago"}
           channelImage={
@@ -44,7 +44,7 @@ function RecommendedVideos() {
           }
         />
         <VideoCard
-          title={"Become w web dev in 10min"}
+          title={"Become a web dev in 10min"}
           views={"2.3M Views"}
           timestamp={"3 days ago"}
           channelImage={
@@ -56,7 +56,7 @@ function RecommendedVideos() {
           }
         />
         <VideoCard
-          title={"Become w web dev in 10min"}
+          title={"Become a web dev in 10min"}
           views={"2.3M Views"}
           timestamp={"3 days ago"}
           channelImage={
@@ -68,7 +68,7 @@ function RecommendedVideos() {
           }
         />
         <VideoCard
-          title={"Become w web dev in 10min"}
+          title={"Become a web dev in 10min"}
           views={"2.3M Views"}
           timestamp={"3 days ago"}
           channelImage={
@@ -80,7 +80,7 @@ function RecommendedVideos() {
           }
         />
         <VideoCard
-          title={"Become w web dev in 10min"}
+          title={"Become a web dev in 10min"}
           views={"2.3M Views"}
           timestamp={"3 days ago"}
           channelImage={
@@ -92,7 +92,7 @@ function RecommendedVideos() {
           }
         />
         <VideoCard
-          title={"Become w web dev in 10min"}
+          title={"Become a web dev in 10min"}
           views={"2.3M Views"}
           timestamp={"3 days ago"}
           channelImage={
